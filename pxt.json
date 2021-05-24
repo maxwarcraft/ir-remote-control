@@ -1,0 +1,22 @@
+{
+    "name": "IR Remote Control",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "pxt-turtle-bit": "github:mworkfun/pxt-turtle-bit#c64c057e626effa806dac2a262f8d6da3b9d314a",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
